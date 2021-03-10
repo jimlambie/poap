@@ -122,7 +122,7 @@ export const ChooseAddressPage: React.FC<ChooseAddressPageProps> = ({ onAccountD
       <div className="container">
         <div className="content-event" data-aos="fade-up" data-aos-delay="300">
           <p>
-            The <span>Proof of attendance protocol</span> (POAP) reminds you off the <span>cool places</span> you’ve
+            The <span>Proof of attendance protocol</span> (POAP) reminds you of the <span>cool places</span> you’ve
             been to.
           </p>
           <br />
